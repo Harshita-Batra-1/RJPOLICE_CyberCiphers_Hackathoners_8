@@ -56,9 +56,8 @@ Django application for user interaction and model prediction.
 Model creation steps documented in detail.
 Folder structure and documentation overview.
 > System Architecture:
-……………………………………………………………………………………………………..
+
 Next Steps:
 Testing and Validation: Conducting extensive testing to ensure accuracy and reliability.
 User Documentation: Creating comprehensive guides for end-users and developers.
 Continued Development: Planning for ongoing updates and improvements.
-……………………………………………………………………………………………………..
