@@ -4,7 +4,7 @@
 
                        Project: Deep Fake Detection System
 Team  Name
-Thinker Bots
+CyberCiphers
 Problem Statement - 8 
 Team Lead 
 Harshita Batra
